@@ -1,0 +1,18 @@
+2. mkdir lab1
+. cd lab1
+3. git init
+. nano
+4.git add l1.txt
+5.git commit -m "initial commit"
+.nano l1
+6.git add l1.txt
+7.git commit -m "modify l1.txt"
+9.git remote add origin https://github.com/Zenxtro/origin.git
+10.git push -u origin master
+11.git checkout -- l1
+12.git checkout -b logging
+13.git log i nano so nov txt so ime log
+14.git add log.txt i git commit -m "create log.txt in branch"
+15.git checkout master => git merge logging => git push -u origin master
+16.git checkout -b allcommands
+17.nano
