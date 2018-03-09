@@ -1,0 +1,13 @@
+commit 4f75d9975135adfeeb91f04499871dd1a0cffe2f (HEAD -> logging, origin/master, 
+master)
+Author: unknown <bojan.jovanoski@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:55:17 2018 +0100
+
+    modify l1.txt
+
+commit b98536be3c0444e8a7e248039a81ebaf6b94007e
+Author: unknown <bojan.jovanoski@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:50:31 2018 +0100
+
+    Inital commit
+
